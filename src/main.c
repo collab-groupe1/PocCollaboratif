@@ -3,7 +3,7 @@
 int main()
 {
     float a, b;
-    printf("*****(US1) - addition*****\n");
+    printf("*****(US2/amadou) - soustraction*****\n");
 
     printf("Entrer le premier nombre (a) : ");
     scanf("%f", &a);
@@ -11,7 +11,7 @@ int main()
     printf("Entrer le deuxième nombre (b) : ");
     scanf("%f", &b);
 
-    printf("La somme de %.2f et %.2f = %.2f\n", a, b, a + b);
+    printf("La soustraction de %.2f et %.2f = %.2f\n", a, b, a - b);
 
     return 0;
 }
