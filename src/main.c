@@ -3,7 +3,7 @@
 int main()
 {
     float a, b;
-    printf("*****(US1) - addition*****\n");
+    printf("*****(US1/amadou) - addition*****\n");
 
     printf("Entrer le premier nombre (a) : ");
     scanf("%f", &a);
