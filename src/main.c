@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    prinf("Hello groupe1\n")
+    printf("Hello Word\n");
     return 0;
 }
